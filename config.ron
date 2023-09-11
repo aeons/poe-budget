@@ -1,0 +1,16 @@
+(
+    league: "Ancestor",
+    chaos_to_divine: 232.92,
+    last_update: Some("2023-09-11 15:24:44.1941474 +00:00:00"),
+    items: [
+        (
+            name: "Progenesis",
+            query: "{\"query\":{\"status\":{\"option\":\"online\"},\"name\":\"Progenesis\",\"type\":\"Amethyst Flask\",\"stats\":[{\"type\":\"and\",\"filters\":[],\"disabled\":false}]},\"sort\":{\"price\":\"asc\"}}",
+        ),
+        (
+            name: "Stormshroud",
+            query: "{\"query\":{\"status\":{\"option\":\"online\"},\"name\":\"Stormshroud\",\"type\":\"Viridian Jewel\",\"stats\":[{\"type\":\"and\",\"filters\":[],\"disabled\":false}]},\"sort\":{\"price\":\"asc\"}}",
+        ),
+    ],
+    prices: None,
+)
